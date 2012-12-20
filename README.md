@@ -6,7 +6,7 @@ Capistrano Setup that is used by http://www.v2a.net
 
 Add this line to your application's Gemfile:
 
-    gem 'v2a-deploy', :github => 'v2a/v2a-deploy'
+    gem 'v2a-deploy'
 
 And then execute:
 
