@@ -21,7 +21,6 @@ Gem::Specification.new do |gem|
   gem.add_dependency "capistrano_ssh"
   gem.add_dependency "capistrano_rails_console"
   gem.add_dependency "capistrano_mongo"
-  gem.add_dependency "capistrano_colors"
 
   gem.add_development_dependency "rake"
 end
